@@ -1,0 +1,1 @@
+Nuevamente por tema de tiempo de ejecucion, no se realizo para mayor numero de lattices.
